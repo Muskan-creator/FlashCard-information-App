@@ -16,7 +16,7 @@
 
 ##  How website looks like
 <div align="center">
-  <div style="display: flex; align-items:unset;">
+  <div style="display: flex; align-items:flex-start;">
 <img src="https://user-images.githubusercontent.com/59757988/211206020-6d6388ec-eaae-467b-a2e9-4ceda8edba26.png" width="400" >
 <img src ="https://user-images.githubusercontent.com/59757988/211206040-6f40625c-434d-42c1-a252-3df6c0c90c73.png" width="600">
 </div>
